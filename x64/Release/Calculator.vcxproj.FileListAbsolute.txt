@@ -1,0 +1,4 @@
+C:\Users\dimu2\Laby\Calculator\x64\Release\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\dimu2\Laby\Calculator\x64\Release\Calculator.exe
+C:\Users\dimu2\Laby\Calculator\x64\Release\Calculator.MyForm.resources
+C:\Users\dimu2\Laby\Calculator\x64\Release\Calculator.vcxproj.GenerateResource.cache

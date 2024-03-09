@@ -1,0 +1,2 @@
+C:\Users\dimu2\Laby\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\dimu2\Laby\Calculator\x64\Debug\Calculator.exe
